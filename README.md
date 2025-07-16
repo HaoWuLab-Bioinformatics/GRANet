@@ -44,6 +44,5 @@ The model can be run directly using the main file in the directory, or through t
 ##  Contact
 
 For questions, contact:
-Hao Wu - [haowu@sdu.edu.cn](https://mailto:haowu@sdu.edu.cn/)
 Junliang Zhou - [Z1527304929@outlook.com](https://mailto:Z1527304929@outlook.com/)
 
